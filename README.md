@@ -10,3 +10,7 @@
 
 Целевая функция:
 ![Целевая функция (результат)](https://user-images.githubusercontent.com/58989414/129875469-81daa2e2-6f02-41c9-b650-b71eeeb00452.png)
+
+Популяция:
+
+![Изменение популяции](https://user-images.githubusercontent.com/58989414/129875922-3642f8fb-09d0-4431-ac70-7a0cee6d133a.png)
